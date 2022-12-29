@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WAEmberlin
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Machine Learning and Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on website development and machine learning projects
 - 📫 How to reach me wesley.a.emberlin@gmail.com
 
 <!---
